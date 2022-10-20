@@ -1,16 +1,20 @@
 <h1 align="left">Hi 👋! My name is 123stein. and I'm a Python developer</h1>
 
 ###
-
+<!-- En -->
 <div align="center">
+  <!-- Stats -->
   <img src="https://github-readme-stats.vercel.app/api?hide_title=false&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=onedark&locale=en&hide_border=false&custom_title=Github Stats&username=123stein" height="150" alt="stats graph"  />
+  <!-- Langs -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=onedark&hide_border=false&username=123stein" height="150" alt="languages graph"  />
 </div>
 
 ###
-
+<!-- de -->
 <div align="center">
+  <!-- stats -->
   <img src="https://github-readme-stats.vercel.app/api?hide_title=false&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=onedark&locale=de&hide_border=false&custom_title=Github Statistiken&username=123stein" height="150" alt="stats graph"  />
+  <!-- langs -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=de&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=onedark&hide_border=false&username=123stein" height="150" alt="languages graph"  />
 </div>
 
